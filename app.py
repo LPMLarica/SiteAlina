@@ -374,7 +374,7 @@ def render_footer():
             </a>
         </div>
         <p style="margin-top: 2rem; color: #8b7355; font-size: 0.9rem;">
-            © 2024 Dra. Alina Cardoso - Todos os direitos reservados
+            © 2026 Dra. Alina Cardoso - Todos os direitos reservados
         </p>
     """, unsafe_allow_html=True)
     st.markdown('</div>', unsafe_allow_html=True)
