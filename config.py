@@ -25,59 +25,59 @@ CAMINHO_LOGO = "assets/logo_alina.png"
 CAMINHO_FOTO_PERFIL = "assets/foto_alina.png"
 
 # Projetos
-CAMINHO_PROJETO_1 = "assets/projeto1.jpg"
-CAMINHO_PROJETO_2 = "assets/projeto2.jpg"
-CAMINHO_PROJETO_3 = "assets/projeto3.jpg"
+CAMINHO_PROJETO_1 = "assets/harmonizacao.png"
+CAMINHO_PROJETO_2 = "assets/facetas.png"
+CAMINHO_PROJETO_3 = "assets/clareamento.png"
 
 # PROJETOS - CONTEÚDO
 PROJETOS = [
     {
         "titulo": "Harmonização Orofacial",
         "imagem": CAMINHO_PROJETO_1,
-        "descricao": """
-        <p><strong>O que é:</strong> A harmonização orofacial é um conjunto de procedimentos estéticos 
-        que visa equilibrar e embelezar os traços faciais, respeitando a naturalidade e individualidade 
-        de cada paciente.</p>
+"descricao": """
+<p><strong>O que é:</strong> A harmonização orofacial é um conjunto de procedimentos estéticos 
+que visa equilibrar e embelezar os traços faciais, respeitando a naturalidade e individualidade 
+de cada paciente.</p>
 
-        <p><strong>Importância:</strong> Este procedimento vai além da estética, proporcionando 
-        autoestima, confiança e bem-estar aos pacientes. Com técnicas modernas e seguras, 
-        alcançamos resultados naturais que realçam a beleza única de cada pessoa.</p>
+<p><strong>Importância:</strong> Este procedimento vai além da estética, proporcionando 
+autoestima, confiança e bem-estar aos pacientes. Com técnicas modernas e seguras, 
+alcançamos resultados naturais que realçam a beleza única de cada pessoa.</p>
 
-        <p><strong>Resultados:</strong> Rejuvenescimento facial, equilíbrio das proporções, 
-        suavização de linhas de expressão e valorização dos contornos naturais.</p>
-        """
+<p><strong>Resultados:</strong> Rejuvenescimento facial, equilíbrio das proporções, 
+suavização de linhas de expressão e valorização dos contornos naturais.</p>
+"""
     },
     {
         "titulo": "Facetas em Porcelana",
         "imagem": CAMINHO_PROJETO_2,
         "descricao": """
-        <p><strong>O que é:</strong> As facetas em porcelana são lâminas ultrafinas de cerâmica 
-        que são aplicadas sobre os dentes, transformando completamente o sorriso com naturalidade 
-        e durabilidade excepcional.</p>
+<p><strong>O que é:</strong> As facetas em porcelana são lâminas ultrafinas de cerâmica 
+que são aplicadas sobre os dentes, transformando completamente o sorriso com naturalidade 
+e durabilidade excepcional.</p>
 
-        <p><strong>Importância:</strong> Esse tratamento revolucionou a odontologia estética, 
-        permitindo correções de cor, formato, tamanho e alinhamento dos dentes de forma minimamente 
-        invasiva e com resultados surpreendentes.</p>
+<p><strong>Importância:</strong> Esse tratamento revolucionou a odontologia estética, 
+permitindo correções de cor, formato, tamanho e alinhamento dos dentes de forma minimamente 
+invasiva e com resultados surpreendentes.</p>
 
-        <p><strong>Resultados:</strong> Sorriso harmônico, dentes alinhados, cor uniforme e 
-        brilhante, aspecto natural e duradouro que transforma vidas.</p>
-        """
+<p><strong>Resultados:</strong> Sorriso harmônico, dentes alinhados, cor uniforme e 
+brilhante, aspecto natural e duradouro que transforma vidas.</p>
+"""
     },
     {
         "titulo": "Clareamento Dental",
         "imagem": CAMINHO_PROJETO_3,
         "descricao": """
-        <p><strong>O que é:</strong> O clareamento dental é um procedimento estético que remove 
-        manchas e escurecimentos dos dentes, devolvendo o branco natural e a luminosidade do sorriso 
-        através de técnicas seguras e eficazes.</p>
+<p><strong>O que é:</strong> O clareamento dental é um procedimento estético que remove 
+manchas e escurecimentos dos dentes, devolvendo o branco natural e a luminosidade do sorriso 
+através de técnicas seguras e eficazes.</p>
 
-        <p><strong>Importância:</strong> Um sorriso branco e brilhante é sinônimo de saúde, 
-        juventude e cuidado pessoal. Este procedimento eleva a autoestima e proporciona confiança 
-        em situações sociais e profissionais.</p>
+<p><strong>Importância:</strong> Um sorriso branco e brilhante é sinônimo de saúde, 
+juventude e cuidado pessoal. Este procedimento eleva a autoestima e proporciona confiança 
+em situações sociais e profissionais.</p>
 
-        <p><strong>Resultados:</strong> Dentes mais brancos em até 8 tons, sorriso rejuvenescido, 
-        procedimento seguro e resultados que duram anos com cuidados adequados.</p>
-        """
+<p><strong>Resultados:</strong> Dentes mais brancos em até 8 tons, sorriso rejuvenescido, 
+procedimento seguro e resultados que duram anos com cuidados adequados.</p>
+"""
     }
 ]
 
@@ -131,7 +131,7 @@ TITULO_SOBRE = "# Sobre Quem Sou"
 SUBTITULO_SOBRE = "### Conheça minha história e formação profissional"
 
 PAGE_CONFIG = {
-    "page_title": "Dra. Alina Cardoso",
+    "page_title": "Start Centro Clinico",
     "page_icon": "💎",
     "layout": "wide",
     "initial_sidebar_state": "collapsed"
@@ -139,5 +139,4 @@ PAGE_CONFIG = {
 
 
 PLACEHOLDER_LOGO = "assets/logo_alina.png"
-PLACEHOLDER_FOTO_PERFIL = "Adicione sua foto profissional aqui (assets/foto_alina.png)"
-PLACEHOLDER_PROJETO = "Adicione a imagem do projeto aqui"
+PLACEHOLDER_FOTO_PERFIL = "assets/foto_alina.png"
